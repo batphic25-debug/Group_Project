@@ -1,0 +1,65 @@
+[
+  {
+    "chunk": {
+      "chunk_id": "LDD2024_D45_K1",
+      "law_name": "Luật Đất đai 2024",
+      "law_code": "31/2024/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 45",
+      "article_title": "Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất",
+      "clause_number": "Khoản 1",
+      "content": "Người sử dụng đất được thực hiện các quyền chuyển nhượng, tặng cho, thế chấp quyền sử dụng đất khi có đủ các điều kiện sau đây: a) Có Giấy chứng nhận quyền sử dụng đất; b) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền; c) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khẩn cấp tạm thời để bảo đảm thi hành án; d) Trong thời hạn sử dụng đất.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 31.2739,
+      "vector_score": -0.0077,
+      "rrf_score": 0.031778,
+      "rerank_score": 0.601
+    },
+    "rank": 1
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D25_K3",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 25",
+      "article_title": "Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 3",
+      "content": "Nếu bên mua, thuê mua chưa được cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai thì bên bán, cho thuê mua không được thu quá 95% giá trị hợp đồng; giá trị còn lại của hợp đồng được thanh toán khi cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 14.4687,
+      "vector_score": -0.0081,
+      "rrf_score": 0.031281,
+      "rerank_score": 0.3775
+    },
+    "rank": 2
+  },
+  {
+    "chunk": {
+      "chunk_id": "BLDS2015_D328_K2",
+      "law_name": "Bộ luật Dân sự 2015",
+      "law_code": "91/2015/QH13",
+      "chapter": "Chương XV",
+      "article_number": "Điều 328",
+      "article_title": "Đặt cọc",
+      "clause_number": "Khoản 2",
+      "content": "Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được trả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên nhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì phải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài sản đặt cọc, trừ trường hợp có thỏa thuận khác.",
+      "effective_date": "2017-01-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 0.8474,
+      "vector_score": -0.0498,
+      "rrf_score": 0.029236,
+      "rerank_score": 0.3304
+    },
+    "rank": 3
+  }
+]

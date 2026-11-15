@@ -1,0 +1,65 @@
+[
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D23_K5",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 23",
+      "article_title": "Nguyên tắc kinh doanh nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 5",
+      "content": "Chủ đầu tư dự án bất động sản chỉ được thu tiền đặt cọc không quá 05% giá bán, cho thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng từ bên đặt cọc để mua, thuê mua khi nhà ở, công trình xây dựng đã có đủ các điều kiện đưa vào kinh doanh theo quy định của Luật này. Thỏa thuận đặt cọc phải ghi rõ giá bán, cho thuê mua nhà ở, công trình xây dựng.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 13.7487,
+      "vector_score": -0.0622,
+      "rrf_score": 0.030282,
+      "rerank_score": 0.6274
+    },
+    "rank": 1
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D25_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 25",
+      "article_title": "Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 1",
+      "content": "Việc thanh toán trong mua bán nhà ở, công trình xây dựng hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng bao gồm cả tiền đặt cọc, những lần tiếp theo phải phù hợp với tiến độ xây dựng nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà ở, công trình xây dựng cho bên mua.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 5.8911,
+      "vector_score": -0.0107,
+      "rrf_score": 0.031025,
+      "rerank_score": 0.5191
+    },
+    "rank": 2
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D26_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 26",
+      "article_title": "Bảo lãnh trong bán, cho thuê mua nhà ở hình thành trong tương lai",
+      "clause_number": "Khoản 1",
+      "content": "Chủ đầu tư dự án bất động sản trước khi bán, cho thuê mua nhà ở hình thành trong tương lai phải được ngân hàng thương mại trong nước hoặc chi nhánh ngân hàng nước ngoài đang hoạt động hợp pháp tại Việt Nam chấp thuận cấp bảo lãnh cho nghĩa vụ tài chính của chủ đầu tư đối với bên mua, thuê mua nhà ở khi chủ đầu tư không bàn giao nhà ở theo cam kết trong hợp đồng.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 6.0899,
+      "vector_score": -0.0264,
+      "rrf_score": 0.031054,
+      "rerank_score": 0.4633
+    },
+    "rank": 3
+  }
+]

@@ -1,0 +1,52 @@
+project:
+  name: "BDS-Legal-Auditor-RAG"
+  version: "2.0.0-enhanced"
+  environment: "development" # development | demo | benchmark
+
+paths:
+  raw_laws_dir: "data/raw_laws"
+  sample_contracts_dir: "data/sample_contracts"
+  knowledge_base_file: "data/knowledge_base/legal_chunks.json"
+  vector_index_dir: "data/vector_index"
+  cache_dir: "data/cache"
+  benchmark_dataset_file: "evaluation/dataset_50_qa.json"
+
+models:
+  # Tầng 1: Embedding ngữ cảnh dài (Hỗ trợ: voyage | cohere | gemini)
+  embedding:
+    provider: "voyage"
+    model_name: "voyage-context-4"
+    dimensions: 1024
+    batch_size: 32
+
+  # Tầng 2: Reranker lọc tinh Điều/Khoản (Hỗ trợ: voyage | cohere)
+  reranker:
+    provider: "voyage"
+    model_name: "rerank-3"
+    top_n: 5
+    score_threshold: 0.35
+
+  # Tầng 3A: LLM Chính (Đọc Luật & Bóc tách Biên bản BĐS)
+  llm_primary:
+    provider: "gemini"
+    model_name: "gemini-4-hydrogen"
+    temperature: 0.1
+    max_tokens: 4096
+
+  # Tầng 3B: LLM Phụ (Chạy đối chứng Benchmark cho TV4 & TV7)
+  llm_secondary:
+    provider: "groq"
+    model_name: "qwen/qwen3.8-27b"
+    temperature: 0.1
+    max_tokens: 4096
+
+retrieval:
+  vector_top_k: 20          # Số lượng ứng viên lấy từ Vector Search
+  bm25_top_k: 20            # Số lượng ứng viên lấy từ BM25 (từ khóa chính xác)
+  rrf_k: 60                 # Hằng số làm mượt thuật toán gộp Reciprocal Rank Fusion
+  hybrid_candidates: 25     # Số lượng ứng viên đưa vào Reranker chấm điểm lại
+  enable_cache: true        # Bật cache kết quả Retrieval để tiết kiệm quota khi chạy Benchmark
+
+guardrails:
+  strict_citation_check: true   # Bắt buộc đối chiếu số hiệu Điều/Khoản LLM trích dẫn với Metadata thật
+  min_confidence_score: 0.40    # Ngưỡng điểm Rerank tối thiểu; thấp hơn sẽ kích hoạt từ chối suy diễn

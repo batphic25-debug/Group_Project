@@ -1,0 +1,172 @@
+{
+  "model_name": "gemma-4-26B-A4B-it",
+  "provider": "ollama",
+  "total_questions": 10,
+  "hit_rate_at_3": 100.0,
+  "mrr_score": 1.0,
+  "avg_keyword_coverage": 97.5,
+  "citation_verified_rate": 100.0,
+  "avg_latency_ms": 4.86,
+  "details": [
+    {
+      "question_id": "Q01",
+      "question": "Chủ đầu tư dự án bất động sản được thu tiền đặt cọc tối đa bao nhiêu phần trăm giá bán nhà ở hình thành trong tương lai?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 23",
+      "retrieved_top_articles": [
+        "Điều 23",
+        "Điều 25",
+        "Điều 26"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 75.0,
+      "citation_verified": true,
+      "latency_ms": 3.66,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 23 - Khoản 5] — Nguyên tắc kinh doanh nhà ở, công trình xây dựng hình thành trong tương lai. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1], [Luật Kinh doanh bất động sản 2023 - Điều 26 - Khoản 1])\n\n**Nội dung quy định:** Chủ đầu tư dự án bất động sản chỉ được thu tiền đặt cọc không quá 05% giá bán, cho thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng từ bên đặt cọc để mua, thuê mua khi nhà ở, công trình xây dựng đã có đủ các điều kiện đưa vào kinh doanh theo quy định của Luật này. Thỏa thuận đặt cọc phải ghi rõ giá bán, cho thuê mua nhà ở, công trình xây dựng.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 23 - Khoản 5] nêu trên."
+    },
+    {
+      "question_id": "Q02",
+      "question": "Điều kiện về xây dựng để nhà chung cư hình thành trong tương lai được phép đưa vào kinh doanh là gì?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 24",
+      "retrieved_top_articles": [
+        "Điều 24",
+        "Điều 23",
+        "Điều 25"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 2.33,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 24 - Khoản 1] — Điều kiện của nhà ở, công trình xây dựng hình thành trong tương lai được đưa vào kinh doanh. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 23 - Khoản 5], [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1])\n\n**Nội dung quy định:** Nhà ở, công trình xây dựng hình thành trong tương lai phải đã được khởi công xây dựng theo quy định của pháp luật về xây dựng và có giấy tờ nghiệm thu việc đã hoàn thành xây dựng cơ sở hạ tầng kỹ thuật tương ứng theo tiến độ dự án; trường hợp là nhà chung cư, tòa nhà hỗn hợp có nhà ở phải có giấy tờ nghiệm thu đã hoàn thành xây dựng xong phần móng.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 24 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q03",
+      "question": "Việc thanh toán trong mua bán nhà ở hình thành trong tương lai lần đầu và trước khi bàn giao nhà tối đa là bao nhiêu phần trăm?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 25",
+      "retrieved_top_articles": [
+        "Điều 25",
+        "Điều 26",
+        "Điều 24"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 7.08,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1] — Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 26 - Khoản 1], [Luật Kinh doanh bất động sản 2023 - Điều 24 - Khoản 1])\n\n**Nội dung quy định:** Việc thanh toán trong mua bán nhà ở, công trình xây dựng hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng bao gồm cả tiền đặt cọc, những lần tiếp theo phải phù hợp với tiến độ xây dựng nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà ở, công trình xây dựng cho bên mua.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q04",
+      "question": "Khi người mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thì bên bán được thu tối đa bao nhiêu phần trăm giá trị hợp đồng?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 25",
+      "retrieved_top_articles": [
+        "Điều 25",
+        "Điều 25",
+        "Điều 45"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 5.61,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 3] — Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1], [Luật Đất đai 2024 - Điều 45 - Khoản 1])\n\n**Nội dung quy định:** Nếu bên mua, thuê mua chưa được cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai thì bên bán, cho thuê mua không được thu quá 95% giá trị hợp đồng; giá trị còn lại của hợp đồng được thanh toán khi cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 3] nêu trên."
+    },
+    {
+      "question_id": "Q05",
+      "question": "Chủ đầu tư bán nhà ở hình thành trong tương lai có bắt buộc phải có bảo lãnh ngân hàng thương mại hay không?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 26",
+      "retrieved_top_articles": [
+        "Điều 26",
+        "Điều 23",
+        "Điều 25"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 5.59,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 26 - Khoản 1] — Bảo lãnh trong bán, cho thuê mua nhà ở hình thành trong tương lai. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 23 - Khoản 5], [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1])\n\n**Nội dung quy định:** Chủ đầu tư dự án bất động sản trước khi bán, cho thuê mua nhà ở hình thành trong tương lai phải được ngân hàng thương mại trong nước hoặc chi nhánh ngân hàng nước ngoài đang hoạt động hợp pháp tại Việt Nam chấp thuận cấp bảo lãnh cho nghĩa vụ tài chính của chủ đầu tư đối với bên mua, thuê mua nhà ở khi chủ đầu tư không bàn giao nhà ở theo cam kết trong hợp đồng.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 26 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q06",
+      "question": "Hợp đồng mua bán, thuê mua nhà ở mà các bên tham gia giao dịch là cá nhân có bắt buộc phải công chứng hoặc chứng thực không?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 44",
+      "retrieved_top_articles": [
+        "Điều 44",
+        "Điều 164",
+        "Điều 25"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 4.57,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 44 - Khoản 4] — Hợp đồng trong kinh doanh bất động sản. (Tham khảo liên quan: [Luật Nhà ở 2023 - Điều 164 - Khoản 1], [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1])\n\n**Nội dung quy định:** Hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng mà các bên tham gia giao dịch là cá nhân phải công chứng hoặc chứng thực.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 44 - Khoản 4] nêu trên."
+    },
+    {
+      "question_id": "Q07",
+      "question": "Chủ đầu tư dự án bất động sản nhận tiền thanh toán hợp đồng từ khách hàng theo hình thức nào?",
+      "expected_article": "Luật Kinh doanh bất động sản 2023 - Điều 47",
+      "retrieved_top_articles": [
+        "Điều 47",
+        "Điều 26",
+        "Điều 23"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 2.69,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Kinh doanh bất động sản 2023 - Điều 47 - Khoản 1] — Thanh toán trong kinh doanh bất động sản. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 26 - Khoản 1], [Luật Kinh doanh bất động sản 2023 - Điều 23 - Khoản 5])\n\n**Nội dung quy định:** Chủ đầu tư dự án, doanh nghiệp kinh doanh bất động sản, doanh nghiệp kinh doanh dịch vụ bất động sản nhận tiền thanh toán theo hợp đồng kinh doanh bất động sản, hợp đồng kinh doanh dịch vụ bất động sản từ khách hàng thông qua tài khoản mở tại tổ chức tín dụng trong nước hoặc chi nhánh ngân hàng nước ngoài đang hoạt động hợp pháp tại Việt Nam.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Kinh doanh bất động sản 2023 - Điều 47 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q08",
+      "question": "Thời điểm có hiệu lực của hợp đồng mua bán nhà ở thuộc trường hợp phải công chứng, chứng thực được xác định như thế nào?",
+      "expected_article": "Luật Nhà ở 2023 - Điều 164",
+      "retrieved_top_articles": [
+        "Điều 164",
+        "Điều 25",
+        "Điều 24"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 6.27,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Nhà ở 2023 - Điều 164 - Khoản 1] — Công chứng, chứng thực hợp đồng và thời điểm có hiệu lực của hợp đồng về nhà ở. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 3], [Luật Kinh doanh bất động sản 2023 - Điều 24 - Khoản 1])\n\n**Nội dung quy định:** Trường hợp mua bán, thuê mua, tặng cho, đổi, góp vốn, thế chấp nhà ở thì phải thực hiện công chứng hoặc chứng thực hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này. Thời điểm có hiệu lực của hợp đồng là thời điểm hoàn thành việc công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Nhà ở 2023 - Điều 164 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q09",
+      "question": "Người sử dụng đất cần đáp ứng những điều kiện nào để được thực hiện quyền chuyển nhượng quyền sử dụng đất?",
+      "expected_article": "Luật Đất đai 2024 - Điều 45",
+      "retrieved_top_articles": [
+        "Điều 45",
+        "Điều 25",
+        "Điều 328"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 6.8,
+      "generated_answer": "**Căn cứ pháp lý:** [Luật Đất đai 2024 - Điều 45 - Khoản 1] — Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất. (Tham khảo liên quan: [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 3], [Bộ luật Dân sự 2015 - Điều 328 - Khoản 2])\n\n**Nội dung quy định:** Người sử dụng đất được thực hiện các quyền chuyển nhượng, tặng cho, thế chấp quyền sử dụng đất khi có đủ các điều kiện sau đây: a) Có Giấy chứng nhận quyền sử dụng đất; b) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền; c) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khẩn cấp tạm thời để bảo đảm thi hành án; d) Trong thời hạn sử dụng đất.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Luật Đất đai 2024 - Điều 45 - Khoản 1] nêu trên."
+    },
+    {
+      "question_id": "Q10",
+      "question": "Theo Bộ luật Dân sự, nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì phải chịu trách nhiệm gì?",
+      "expected_article": "Bộ luật Dân sự 2015 - Điều 328",
+      "retrieved_top_articles": [
+        "Điều 328",
+        "Điều 328",
+        "Điều 25"
+      ],
+      "retrieval_hit": true,
+      "reciprocal_rank": 1.0,
+      "keyword_coverage": 100.0,
+      "citation_verified": true,
+      "latency_ms": 3.98,
+      "generated_answer": "**Căn cứ pháp lý:** [Bộ luật Dân sự 2015 - Điều 328 - Khoản 2] — Đặt cọc. (Tham khảo liên quan: [Bộ luật Dân sự 2015 - Điều 328 - Khoản 1], [Luật Kinh doanh bất động sản 2023 - Điều 25 - Khoản 1])\n\n**Nội dung quy định:** Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được trả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên nhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì phải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài sản đặt cọc, trừ trường hợp có thỏa thuận khác.\n\n**Kết luận:** Áp dụng trực tiếp quy định tại [Bộ luật Dân sự 2015 - Điều 328 - Khoản 2] nêu trên."
+    }
+  ]
+}

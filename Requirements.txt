@@ -1,0 +1,20 @@
+# Core & Data Validation
+pydantic>=2.9.0
+pyyaml>=6.0.2
+python-dotenv>=1.0.1
+tenacity>=9.0.0
+
+# AI Model Providers (100% Cloud API)
+google-genai>=1.0.0
+openai>=1.52.0
+voyageai>=0.3.2
+cohere>=5.11.0
+
+# Hybrid Retrieval & Math
+rank-bm25>=0.2.2
+numpy>=1.26.0
+
+# Backend API & Demo Workstation UI
+fastapi>=0.115.0
+uvicorn>=0.32.0
+streamlit>=1.40.0

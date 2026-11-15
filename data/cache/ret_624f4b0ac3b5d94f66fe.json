@@ -1,0 +1,65 @@
+[
+  {
+    "chunk": {
+      "chunk_id": "LNO2023_D164_K1",
+      "law_name": "Luật Nhà ở 2023",
+      "law_code": "27/2023/QH15",
+      "chapter": "Chương IX",
+      "article_number": "Điều 164",
+      "article_title": "Công chứng, chứng thực hợp đồng và thời điểm có hiệu lực của hợp đồng về nhà ở",
+      "clause_number": "Khoản 1",
+      "content": "Trường hợp mua bán, thuê mua, tặng cho, đổi, góp vốn, thế chấp nhà ở thì phải thực hiện công chứng hoặc chứng thực hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này. Thời điểm có hiệu lực của hợp đồng là thời điểm hoàn thành việc công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 19.6274,
+      "vector_score": -0.0745,
+      "rrf_score": 0.030282,
+      "rerank_score": 0.6834
+    },
+    "rank": 1
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D25_K3",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 25",
+      "article_title": "Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 3",
+      "content": "Nếu bên mua, thuê mua chưa được cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai thì bên bán, cho thuê mua không được thu quá 95% giá trị hợp đồng; giá trị còn lại của hợp đồng được thanh toán khi cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 3.9499,
+      "vector_score": -0.0351,
+      "rrf_score": 0.029877,
+      "rerank_score": 0.4294
+    },
+    "rank": 2
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D24_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 24",
+      "article_title": "Điều kiện của nhà ở, công trình xây dựng hình thành trong tương lai được đưa vào kinh doanh",
+      "clause_number": "Khoản 1",
+      "content": "Nhà ở, công trình xây dựng hình thành trong tương lai phải đã được khởi công xây dựng theo quy định của pháp luật về xây dựng và có giấy tờ nghiệm thu việc đã hoàn thành xây dựng cơ sở hạ tầng kỹ thuật tương ứng theo tiến độ dự án; trường hợp là nhà chung cư, tòa nhà hỗn hợp có nhà ở phải có giấy tờ nghiệm thu đã hoàn thành xây dựng xong phần móng.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 2.8857,
+      "vector_score": -0.014,
+      "rrf_score": 0.029851,
+      "rerank_score": 0.4293
+    },
+    "rank": 3
+  }
+]

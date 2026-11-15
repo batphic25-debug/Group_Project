@@ -1,0 +1,65 @@
+[
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D24_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 24",
+      "article_title": "Điều kiện của nhà ở, công trình xây dựng hình thành trong tương lai được đưa vào kinh doanh",
+      "clause_number": "Khoản 1",
+      "content": "Nhà ở, công trình xây dựng hình thành trong tương lai phải đã được khởi công xây dựng theo quy định của pháp luật về xây dựng và có giấy tờ nghiệm thu việc đã hoàn thành xây dựng cơ sở hạ tầng kỹ thuật tương ứng theo tiến độ dự án; trường hợp là nhà chung cư, tòa nhà hỗn hợp có nhà ở phải có giấy tờ nghiệm thu đã hoàn thành xây dựng xong phần móng.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 11.5309,
+      "vector_score": 0.0395,
+      "rrf_score": 0.032787,
+      "rerank_score": 0.7367
+    },
+    "rank": 1
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D23_K5",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 23",
+      "article_title": "Nguyên tắc kinh doanh nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 5",
+      "content": "Chủ đầu tư dự án bất động sản chỉ được thu tiền đặt cọc không quá 05% giá bán, cho thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng từ bên đặt cọc để mua, thuê mua khi nhà ở, công trình xây dựng đã có đủ các điều kiện đưa vào kinh doanh theo quy định của Luật này. Thỏa thuận đặt cọc phải ghi rõ giá bán, cho thuê mua nhà ở, công trình xây dựng.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 7.3486,
+      "vector_score": -0.0575,
+      "rrf_score": 0.030214,
+      "rerank_score": 0.6283
+    },
+    "rank": 2
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D25_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 25",
+      "article_title": "Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 1",
+      "content": "Việc thanh toán trong mua bán nhà ở, công trình xây dựng hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng bao gồm cả tiền đặt cọc, những lần tiếp theo phải phù hợp với tiến độ xây dựng nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà ở, công trình xây dựng cho bên mua.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 3.4494,
+      "vector_score": 0.0274,
+      "rrf_score": 0.032002,
+      "rerank_score": 0.5418
+    },
+    "rank": 3
+  }
+]

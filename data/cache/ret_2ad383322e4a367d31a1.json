@@ -1,0 +1,65 @@
+[
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D44_K4",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương V",
+      "article_number": "Điều 44",
+      "article_title": "Hợp đồng trong kinh doanh bất động sản",
+      "clause_number": "Khoản 4",
+      "content": "Hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng mà các bên tham gia giao dịch là cá nhân phải công chứng hoặc chứng thực.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 16.94,
+      "vector_score": -0.0453,
+      "rrf_score": 0.030282,
+      "rerank_score": 0.6899
+    },
+    "rank": 1
+  },
+  {
+    "chunk": {
+      "chunk_id": "LNO2023_D164_K1",
+      "law_name": "Luật Nhà ở 2023",
+      "law_code": "27/2023/QH15",
+      "chapter": "Chương IX",
+      "article_number": "Điều 164",
+      "article_title": "Công chứng, chứng thực hợp đồng và thời điểm có hiệu lực của hợp đồng về nhà ở",
+      "clause_number": "Khoản 1",
+      "content": "Trường hợp mua bán, thuê mua, tặng cho, đổi, góp vốn, thế chấp nhà ở thì phải thực hiện công chứng hoặc chứng thực hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này. Thời điểm có hiệu lực của hợp đồng là thời điểm hoàn thành việc công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 5.7522,
+      "vector_score": -0.0114,
+      "rrf_score": 0.030622,
+      "rerank_score": 0.53
+    },
+    "rank": 2
+  },
+  {
+    "chunk": {
+      "chunk_id": "LKDBDS2023_D25_K1",
+      "law_name": "Luật Kinh doanh bất động sản 2023",
+      "law_code": "29/2023/QH15",
+      "chapter": "Chương III",
+      "article_number": "Điều 25",
+      "article_title": "Thanh toán trong mua bán, thuê mua nhà ở, công trình xây dựng hình thành trong tương lai",
+      "clause_number": "Khoản 1",
+      "content": "Việc thanh toán trong mua bán nhà ở, công trình xây dựng hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng bao gồm cả tiền đặt cọc, những lần tiếp theo phải phù hợp với tiến độ xây dựng nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà ở, công trình xây dựng cho bên mua.",
+      "effective_date": "2024-08-01",
+      "metadata": {}
+    },
+    "scores": {
+      "bm25_score": 3.2157,
+      "vector_score": 0.0132,
+      "rrf_score": 0.030777,
+      "rerank_score": 0.45
+    },
+    "rank": 3
+  }
+]
